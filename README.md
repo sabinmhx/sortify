@@ -60,5 +60,7 @@ After the application launches, you will be presented with a graphical user inte
 - Click the "Generate Array" button to create a new random array for sorting.
 - Click the "Sort" button to start the visualization of the selected algorithm.
 
+![Visualizer Output](/assets/sorting-visualizer-main.png?raw=true "Program Screenshot")
+
 ## License
 The Sorting Algorithms Visualizer project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
