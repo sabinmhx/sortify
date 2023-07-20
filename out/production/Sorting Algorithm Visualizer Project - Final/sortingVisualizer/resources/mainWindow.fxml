@@ -83,7 +83,7 @@
                   <Insets left="5.0" />
                </padding>
                 </HBox>
-                <Label alignment="CENTER" layoutX="141.0" layoutY="43.0" text="Sorting Visualizer" textFill="WHITE" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="5.0">
+                <Label alignment="CENTER" layoutX="141.0" layoutY="43.0" text="Sorting Algorithm Visualizer" textFill="WHITE" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="5.0">
                     <font>
                         <Font name="Calibri" size="45.0" />
                     </font>

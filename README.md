@@ -50,7 +50,7 @@ javac *.java
 ## Usage
 4. Once the installation is complete, run the Sorting Algorithms Visualizer application with the following command:
 ```bash
-java SortingAlgorithmsVisualizer
+java SortingAlgorithmVisualizer
 ```
 
 After the application launches, you will be presented with a graphical user interface that allows you to interact with the visualizer.

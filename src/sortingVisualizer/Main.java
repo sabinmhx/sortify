@@ -11,7 +11,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("resources/mainWindow.fxml"));
-        primaryStage.setTitle("Sorting Visualizer");
+        primaryStage.setTitle("Sorting Algorithm Visualizer");
         Image icon = new Image(getClass().getResourceAsStream("resources/bar-chart.png"));
         primaryStage.getIcons().addAll(icon);
         primaryStage.setScene(new Scene(root));
