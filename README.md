@@ -1,4 +1,4 @@
-# Sorting Visualizer in Java 📊
+# Sorting Visualizer in Java
 
 ### This project helps to visualize how the sorting algorithms work.
 
