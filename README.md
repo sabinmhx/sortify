@@ -1,6 +1,6 @@
-# Sorting Visualizer in Java
+# Sortify: Sorting Visualizer in Java
 
-### This project helps to visualize how the sorting algorithms work.
+### This sorting algorithm visualizer project helps to visualize how the sorting algorithms work.
 
 ## Description
 
