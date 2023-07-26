@@ -22,6 +22,8 @@ The Sorting Algorithms Visualizer project is a Java application that allows user
 - Real-time graphical representation of the sorting process
 - Color-coded elements to better understand the sorting progress
 
+![Visualizer Output](/assets/sorting-visualizer-main.png?raw=true "Program Screenshot")
+
 ## Supported Algorithms
 1. Bubble Sort
 3. Insertion Sort    
@@ -59,8 +61,6 @@ After the application launches, you will be presented with a graphical user inte
 - Set the array size and sorting speed using the provided sliders.
 - Click the "Generate Array" button to create a new random array for sorting.
 - Click the "Sort" button to start the visualization of the selected algorithm.
-
-![Visualizer Output](/assets/sorting-visualizer-main.png?raw=true "Program Screenshot")
 
 ## License
 The Sorting Algorithms Visualizer project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
