@@ -37,20 +37,24 @@ The Sorting Algorithms Visualizer project is a Java application that allows user
 To run the Sorting Algorithms Visualizer project locally, follow these steps:
 
 1. Clone the GitHub repository to your local machine:
+   
     ```
     git clone https://github.com/sabinmhx/sorting-algorithm-visualizer.git
     ```
-2. Change directory to the project folder:
+3. Change directory to the project folder:
+   
     ```
     cd sorting-algorithms-visualizer
     ```
-3. Compile the Java source files:
+5. Compile the Java source files:
+   
     ```
     javac *.java
     ```
 
 ## Usage
 4. Once the installation is complete, run the Sorting Algorithms Visualizer application with the following command:
+   
     ```
     java SortingAlgorithmVisualizer
     ```
