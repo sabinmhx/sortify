@@ -15,7 +15,7 @@ The Sorting Algorithms Visualizer project is a Java application that allows user
 - [Supported Algorithms](#supported-algorithms)
 - [License](#license)
 
-## Features
+## 🚀Features
 
 - Visualize popular sorting algorithms step-by-step
 - Adjustable array size and sorting speed for a personalized experience
@@ -32,7 +32,7 @@ The Sorting Algorithms Visualizer project is a Java application that allows user
 6. Quick Sort
 7. Merge Sort
 
-## Installation
+## 📱Installation
 
 To run the Sorting Algorithms Visualizer project locally, follow these steps:
 
@@ -66,5 +66,5 @@ After the application launches, you will be presented with a graphical user inte
 - Click the "Generate Array" button to create a new random array for sorting.
 - Click the "Sort" button to start the visualization of the selected algorithm.
 
-## License
+## 📄License
 The Sorting Algorithms Visualizer project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
