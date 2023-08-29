@@ -10,9 +10,10 @@ The Sorting Algorithms Visualizer project is a Java application that allows user
 
 - [Description](#description)
 - [Features](#features)
+- [Supported Algorithms](#supported-algorithms)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Supported Algorithms](#supported-algorithms)
+- [Credits](#credits)
 - [License](#license)
 
 ## 🚀Features
